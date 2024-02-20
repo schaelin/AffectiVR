@@ -21,6 +21,8 @@ The image below serves as an example of the dataset.
 
 ![image](https://github.com/schaelin/AffectiVR-Database-for-Periocular-Identification-and-Valence-Arousal-Evaluation-in-Virtual-Reality/assets/63329440/88aa3f66-8427-4f98-b613-99d2f1070c0a)
 
+*****
+
 ## BASELINE
 To run the baseline, please follow the steps below.
 
