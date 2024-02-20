@@ -1,5 +1,4 @@
-# AffectiVR
-## Database-for-Periocular-Identification-and-Valence-Arousal-Evaluation-in-Virtual-Reality
+# AffectiVR ## Database-for-Periocular-Identification-and-Valence-Arousal-Evaluation-in-Virtual-Reality
 
 Authors: Chaelin Seok, Hyeji Lim, Yeongje Park, Junho Baek
 
