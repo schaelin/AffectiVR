@@ -1,6 +1,6 @@
 # Usage
 
-### 1. Train
+### 1. [Train](src/models/proposed/train_kfold.py)
 ```python
 model_function = train_model
 feature_type = 'deep_resnet'
@@ -24,7 +24,7 @@ for data in datas:
     train(model_function, feature_type, loss, data, save_path, hist_path, input_shape, batch_size, epochs)
 ```
 
-### 2. Test and save results
+### 2. [Test and save results](src/models/proposed/test.py)
 ```python
 data_path = '../../../data/pupil_dataset/data.h5'
 batch_size = 128
@@ -41,7 +41,7 @@ save_path = '../../../result/proposed_resnet.npy'
 test(model_path=model_path, test_model_func=test_model, gen=data, feature_type=feature_type, save_path=save_path)
 ```
 
-### 3. Check results
+### 3. [Check results](src/main.py)
 ```python
 EER = []
 FRR = []
