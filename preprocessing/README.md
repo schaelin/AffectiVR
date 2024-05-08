@@ -1,6 +1,5 @@
 # Usage
 
-***
 ### 1. Train
 ```python
 model_function = train_model
