@@ -2,6 +2,11 @@
 
 AffectiVR is a comprehensive dataset designed for the identification of individuals through periocular recognition and the evaluation of emotional states in terms of valence and arousal within a virtual reality (VR) environment. This dataset aims to facilitate research and development in VR-based emotional analysis and biometric identification.
 
+## Paper
+Seok, C.; Park, Y.; Baek, J.; Lim, H.; Roh, J.-h.; Kim, Y.; Kim, S.; Lee, E.C. AffectiVR: A Database for Periocular Identification and Valence and Arousal Evaluation in Virtual Reality. Electronics 2024, 13, 4112. https://doi.org/10.3390/electronics13204112
+
+[paper](https://www.mdpi.com/2079-9292/13/20/4112)
+
 ## Authors
 - Chaelin Seok
 - Hyeji Lim
