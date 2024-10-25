@@ -12,7 +12,7 @@ AffectiVR is a comprehensive dataset designed for the identification of individu
 - Email: chaelin9905@gmail.com
 
 ## Dataset Download
-The dataset can be downloaded via this [link](https://www.dropbox.com/scl/fo/0p7l6ix72obeb12xieqj9/ALi6KNysHlDUUGEXCpyzYuA?rlkey=1mwixbbgcl6vyrfi744nzm7vw&dl=0).
+Since this dataset can only be used for academic purposes, you must request permission by email (chaelin9905@gmail.com) to use this dataset.
 
 ## Dataset Structure
 The structure of the AffectiVR dataset is illustrated below:
