@@ -12,6 +12,10 @@ Seok, C.; Park, Y.; Baek, J.; Lim, H.; Roh, J.-h.; Kim, Y.; Kim, S.; Lee, E.C. A
 - Hyeji Lim
 - Yeongje Park
 - Junho Baek
+- Jong-hyuk Roh
+- Youngsam Kim
+- Soohyung Kim
+- Eui Chul Lee
 
 ### Contact
 - Email: chaelin9905@gmail.com
