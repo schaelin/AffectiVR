@@ -18,10 +18,11 @@ Seok, C.; Park, Y.; Baek, J.; Lim, H.; Roh, J.-h.; Kim, Y.; Kim, S.; Lee, E.C. A
 - Eui Chul Lee
 
 ### Contact
-- Email: chaelin9905@gmail.com
+- If you have any questions, please feel free to contact:
+📧 Email: 202334018@sangmyung.ac.kr
 
 ## Dataset Download
-Since this dataset can only be used for academic purposes, you must request permission by email (chaelin9905@gmail.com) to use this dataset.
+Since this dataset can only be used for academic purposes, you must request permission by email (eclee@smu.ac.kr) to use this dataset.
 
 ## Dataset Structure
 The structure of the AffectiVR dataset is illustrated below:
